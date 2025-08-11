@@ -1,4 +1,4 @@
-# garage-door
+Garagre Door Controller (STM32)
 
 Overview
 STM32-based garage door controller that:
